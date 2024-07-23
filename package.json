@@ -1,0 +1,30 @@
+{
+  "name": "training-exercises",
+  "version": "1.0.0",
+  "description": "Package containing training exercises from various resources such as books, website tutorials, etc ",
+  "scripts": {
+    "looping-a-triangle": "ts-node ./eloquent-javascript/program-structure/looping-a-triangle.ts",
+    "fizz-buzz": "ts-node ./eloquent-javascript/program-structure/fizz-buzz.ts",
+    "chessboard": "ts-node ./eloquent-javascript/program-structure/chessboard.ts",
+    "minimum": "ts-node ./eloquent-javascript/functions/minimum.ts",
+    "recursion": "ts-node ./eloquent-javascript/functions/recursion.ts",
+    "bean-counting": "ts-node ./eloquent-javascript/functions/bean-counting.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthew678532/training-exercises.git"
+  },
+  "keywords": [
+    "training",
+    "exercises"
+  ],
+  "author": "Matthew Birch",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/matthew678532/training-exercises/issues"
+  },
+  "homepage": "https://github.com/matthew678532/training-exercises#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
