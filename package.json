@@ -8,7 +8,11 @@
     "chessboard": "ts-node ./eloquent-javascript/program-structure/chessboard.ts",
     "minimum": "ts-node ./eloquent-javascript/functions/minimum.ts",
     "recursion": "ts-node ./eloquent-javascript/functions/recursion.ts",
-    "bean-counting": "ts-node ./eloquent-javascript/functions/bean-counting.ts"
+    "bean-counting": "ts-node ./eloquent-javascript/functions/bean-counting.ts",
+    "the-sum-of-a-range": "ts-node ./eloquent-javascript/data/the-sum-of-a-range.ts",
+    "reversing-an-array": "ts-node ./eloquent-javascript/data/reversing-an-array.ts",
+    "a-list": "ts-node ./eloquent-javascript/data/a-list.ts",
+    "deep-equal": "ts-node ./eloquent-javascript/data/deep-equal.ts"
   },
   "repository": {
     "type": "git",
