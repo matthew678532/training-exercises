@@ -12,7 +12,12 @@
     "the-sum-of-a-range": "ts-node ./eloquent-javascript/data/the-sum-of-a-range.ts",
     "reversing-an-array": "ts-node ./eloquent-javascript/data/reversing-an-array.ts",
     "a-list": "ts-node ./eloquent-javascript/data/a-list.ts",
-    "deep-equal": "ts-node ./eloquent-javascript/data/deep-equal.ts"
+    "deep-equal": "ts-node ./eloquent-javascript/data/deep-equal.ts",
+    "flattening": "ts-node ./eloquent-javascript/higher-order/flattening.ts",
+    "your-own-loop": "ts-node ./eloquent-javascript/higher-order/your-own-loop.ts",
+    "everything": "ts-node ./eloquent-javascript/higher-order/everything.ts",
+    "dominant-direction": "ts-node ./eloquent-javascript/higher-order/dominant-writing-direction.ts",
+    "a-vector-type": "ts-node ./eloquent-javascript/object/a-vector-type.ts"
   },
   "repository": {
     "type": "git",
