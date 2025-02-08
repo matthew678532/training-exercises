@@ -20,7 +20,11 @@
     "a-vector-type": "ts-node ./eloquent-javascript/object/a-vector-type.ts",
     "groups": "ts-node ./eloquent-javascript/object/groups.ts",
     "iterable-groups": "ts-node ./eloquent-javascript/object/iterable-groups.ts",
-    "a-robot": "ts-node ./eloquent-javascript/robot/a-robot.ts"
+    "a-robot": "ts-node ./eloquent-javascript/robot/a-robot.ts",
+    "persistent-group": "ts-node ./eloquent-javascript/robot/persistent-group.ts",
+    "retry": "ts-node ./eloquent-javascript/error/retry.ts",
+    "the-locked-box": "ts-node ./eloquent-javascript/error/the-locked-box.ts",
+    "regexp-golf": "ts-node ./eloquent-javascript/regexp/regexp-golf.ts"
   },
   "repository": {
     "type": "git",
