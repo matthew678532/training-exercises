@@ -26,12 +26,12 @@ verify(/\s(\.|,|:|;)/,
   ["escape the period"]);
 
 // 6. Match on a word longer than six letters
-verify(/[a-zA-Z]{7,}/,
+verify(/\b[\w]{7,}\b/i,
   ["Siebentausenddreihundertzweiundzwanzig"],
   ["no", "three small words"]);
 
 // 7. Match on a word without the letter e (or E)
-verify(/.../,
+verify(/\b[^\We]+\b/i,
   ["red platypus", "wobbling nest"],
   ["earth bed", "bedrøvet abe", "BEET"]);
 

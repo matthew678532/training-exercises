@@ -24,7 +24,8 @@
     "persistent-group": "ts-node ./eloquent-javascript/robot/persistent-group.ts",
     "retry": "ts-node ./eloquent-javascript/error/retry.ts",
     "the-locked-box": "ts-node ./eloquent-javascript/error/the-locked-box.ts",
-    "regexp-golf": "ts-node ./eloquent-javascript/regexp/regexp-golf.ts"
+    "regexp-golf": "ts-node ./eloquent-javascript/regexp/regexp-golf.ts",
+    "quoting-style": "ts-node ./eloquent-javascript/regexp/quoting-style.ts"
   },
   "repository": {
     "type": "git",
