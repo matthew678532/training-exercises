@@ -25,7 +25,10 @@
     "retry": "ts-node ./eloquent-javascript/error/retry.ts",
     "the-locked-box": "ts-node ./eloquent-javascript/error/the-locked-box.ts",
     "regexp-golf": "ts-node ./eloquent-javascript/regexp/regexp-golf.ts",
-    "quoting-style": "ts-node ./eloquent-javascript/regexp/quoting-style.ts"
+    "quoting-style": "ts-node ./eloquent-javascript/regexp/quoting-style.ts",
+    "numbers-again": "ts-node ./eloquent-javascript/regexp/numbers-again.ts",
+    "a-modular-robot": "ts-node ./eloquent-javascript/modules/a-modular-robot/runner.ts",
+    "roads-module": "ts-node ./eloquent-javascript/modules/roads-module/roads.ts"
   },
   "repository": {
     "type": "git",
